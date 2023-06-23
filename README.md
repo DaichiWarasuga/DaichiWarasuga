@@ -1,8 +1,8 @@
 ### Hey!!
 
-東京理科大学OS科1年
+東京理科大学OS科3年
 
-TUS OS B1
+TUS OS B3
 
 ### 📊Github Stats📋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaichiWarasuga)](https://github.com/anuraghazra/github-readme-stats)
